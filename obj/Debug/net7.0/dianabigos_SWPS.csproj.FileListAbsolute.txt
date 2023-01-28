@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\bin\Debug\net7.0\dianabigos_SWPS.exe
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\bin\Debug\net7.0\dianabigos_SWPS.deps.json
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\bin\Debug\net7.0\dianabigos_SWPS.runtimeconfig.json
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\bin\Debug\net7.0\dianabigos_SWPS.dll
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\bin\Debug\net7.0\dianabigos_SWPS.pdb
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.AssemblyInfo.cs
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.dll
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\refint\dianabigos_SWPS.dll
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.pdb
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\dianabigos_SWPS.genruntimeconfig.cache
+C:\Users\Student\Desktop\dianabigos_SWPS\dianabigos_SWPS\obj\Debug\net7.0\ref\dianabigos_SWPS.dll
